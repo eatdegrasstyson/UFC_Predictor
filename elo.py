@@ -18,7 +18,6 @@ k_factor = 32   # how much rating changes after wins and losses
                 # higher k factor because fighting is more random
 
 # Function to calculate expected outcome
-# TODO: Maybe use betting odds instead???
 def expected_outcome(rating1, rating2):
     return 1 / (1 + 10 ** ((rating2 - rating1) / 400))
 
