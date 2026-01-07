@@ -1,7 +1,10 @@
 # UFC Predictor 
 
-Project inspired by Green Code. 
-Video https://www.youtube.com/watch?v=LkJpNLIaeVk&t 
+Project inspired by Green Code
+ 
+Video https://www.youtube.com/watch?v=LkJpNLIaeVk&t
+
+Data from https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset
 
 This project explores **machine-learning-based fight outcome prediction** in mixed martial arts (MMA), using historical UFC fight data enriched with a custom **Elo rating system**. The goal is to model relative fighter strength and stylistic advantages while avoiding reliance on betting odds.
 
